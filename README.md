@@ -28,7 +28,7 @@ It's time to practice! Interesting tasks await you — creating an image gallery
 
 The file and folder structure in your project's `src` folder should be as follows. You can see how to include the files in `index.html` from the previous homework.
 
-![Project Structure](./ev-odevi-image-1.png)
+![Project Structure](./src/assets/images/assignment-image-1.png)
 
 ---
 
@@ -42,7 +42,7 @@ Create the same gallery using the **SimpleLightbox** library, which will handle 
 
 Watch the demo video of the gallery in action.
 
-![Gallery Demo](./assignment-1.gif)
+![Gallery Demo](./src/assets/images/assignment-1.gif)
 
 Here are the key details to pay attention to:
 
